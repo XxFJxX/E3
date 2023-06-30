@@ -2,7 +2,16 @@
 
 public partial class MainPage : ContentPage
 {
-	
+
+ ///<Summary>
+///<Createddate>27/6/2023</createddate>
+///<company>INDEL</company>
+///<lastmodificationdate>27/6/2023</lastmodificationdate>
+///<lastmodificationdescription>
+///Se guardan valores en varables luego se saca el promedio y se muestran
+///</lastmodificationdescription>
+//////<lastmodifierautor>Fernando</lastmodifierautor>
+///</Summary>
 	public MainPage()
 	{
 		InitializeComponent();
